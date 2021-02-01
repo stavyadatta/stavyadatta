@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I am Stavya, a Machine Learning Deep Learning Enthusiast looking to create great intelligent products 😄 Proud student at __student__ unimelb
+Hi, I am Stavya, a Machine Learning Deep Learning Enthusiast looking to create great intelligent products 😄 Proud student at :man_student: unimelb
